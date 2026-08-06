@@ -1,5 +1,5 @@
 <div align="right">
-  🇺🇸 <strong>English</strong> | 🇧🇷 <a href="README.md">Português</a>
+  🇺🇸 <strong>English</strong> | 🇧🇷 <a href="README.pt-br.md">Português</a>
 </div>
 
 # 🌱 Automated Garden Irrigation System
